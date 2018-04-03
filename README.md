@@ -17,6 +17,6 @@ This is to help people new to Tensorflow get an understanding of the Library.
 
 5. Run the project by typing `python tensorflow_intro.py`
 
-6. The code will save pictures of the model's output over various epochs in the GradientDescentVisual folder
 
-7. The Model will be saved in the model folder.  We can use Tensorboard for this.
+## Expected Output
+The code will save pictures of the model's output over various epochs in the GradientDescentVisual folder.  In addition the computational graph will be saved in the model folder.  We can use Tensorboard for this.
