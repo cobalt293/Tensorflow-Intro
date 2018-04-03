@@ -7,7 +7,7 @@ https://docs.google.com/presentation/d/1ha71edGMAJbqYfojww-KLPpb2-4G5WT1ee9UqB4f
 
 
 ## How to install
-1. Make sure you have git installed on your computer.  If you don't go to https://git-scm.com/
+1. Make sure you have [Git Version Control] (https://git-scm.com/) installed on your computer.
 
 2. Make sure you have [Python3](https://www.python.org/) on your computer 
 
