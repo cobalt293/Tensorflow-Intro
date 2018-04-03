@@ -1,6 +1,6 @@
 # Tensorflow-Intro
 
-The code I've written here is aimed at helping folks in company and at BU to better understand Tensorflow and its various features.  
+The code I've written here is aimed at everyone better understand Tensorflow and its various features.  
 
 
 [Google Doc Presentation](https://docs.google.com/presentation/d/1ha71edGMAJbqYfojww-KLPpb2-4G5WT1ee9UqB4fsIo/edit?usp=sharing)
