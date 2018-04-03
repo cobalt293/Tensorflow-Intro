@@ -1,13 +1,13 @@
-# Tensorflow-Intro (work in progress)
+# Tensorflow-Intro
 
 This is to help people new to Tensorflow get an understanding of the Library.
 
 
-https://docs.google.com/presentation/d/1ha71edGMAJbqYfojww-KLPpb2-4G5WT1ee9UqB4fsIo/edit?usp=sharing
+[Google Doc Presentation](https://docs.google.com/presentation/d/1ha71edGMAJbqYfojww-KLPpb2-4G5WT1ee9UqB4fsIo/edit?usp=sharing)
 
 
 ## How to install
-1. Make sure you have [Git Version Control] (https://git-scm.com/) installed on your computer.
+1. Make sure you have [Git Version Control](https://git-scm.com/) installed on your computer.
 
 2. Make sure you have [Python3](https://www.python.org/) on your computer 
 
