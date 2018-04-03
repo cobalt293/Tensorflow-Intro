@@ -1,6 +1,6 @@
 # Tensorflow-Intro
 
-This is to help people new to Tensorflow get an understanding of the Library.
+The code I've written here is aimed at helping folks in company and at BU to better understand Tensorflow and its various features.  
 
 
 [Google Doc Presentation](https://docs.google.com/presentation/d/1ha71edGMAJbqYfojww-KLPpb2-4G5WT1ee9UqB4fsIo/edit?usp=sharing)
