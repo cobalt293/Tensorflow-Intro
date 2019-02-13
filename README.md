@@ -11,7 +11,7 @@ The code I've written here will help give everyone a better understanding of Ten
 
 2. Make sure you have [Python3](https://www.python.org/) on your computer 
 
-3. In your powershell or terminal, type `git clone https://github.com/andrewoconnell89/Tensorflow-Intro.git`
+3. In your powershell or terminal, type `git clone https://github.com/cobalt293/Tensorflow-Intro.git`
 
 4. Move into that working directory by typing `cd Tensorflow-Intro`
 
